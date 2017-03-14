@@ -1,0 +1,22 @@
+{% raw %}{% extends 'base.html' %}{% endraw %}
+
+{% raw %}{% block content %}
+
+<div class="jumbotron">
+  <h1>Your Site Name</h1>
+  <p class="lead">This is a simple Bootstrap4 jumbotron component. You can edit this page, or throw it away and replace it with something you like better. To edit this page, open your '{% endraw %}{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}{% raw %}/templates/home.html' file and make the desired changes. If you want to throw it away, visit https://v4-alpha.getbootstrap.com/components/alerts, and replace the jumbotron with other Bootstrap4 options.</p>
+  <p class="lead">Enhance this page with your own styling in the '{% endraw %}{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}{% raw %}/static/css/project.css' file.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+  </p>
+</div>
+
+<div class="container">
+  <div id="map" class="smallmap" style="height:450px"></div>
+</div>
+
+</br>
+</br>
+
+<nav class="navbar navbar-light bg-faded"></nav>
+{% endblock content %}{% endraw %}

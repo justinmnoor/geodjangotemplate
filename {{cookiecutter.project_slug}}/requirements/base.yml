@@ -1,0 +1,15 @@
+# Base Requirements
+# ==================
+
+name: {{cookiecutter.conda_env_name}}
+channels:
+  - conda-forge
+dependencies:
+  - django=1.10.5
+  - pip:
+    - boto3==1.4.4
+    - cookiecutter==1.5.1
+    - django-crispy-forms==1.6.1
+    - django-storages==1.5.2
+    - gunicorn==19.6.0
+    - psycopg2==2.6.2

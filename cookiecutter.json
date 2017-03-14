@@ -1,0 +1,26 @@
+{
+    "project_name": "MyProject",
+    "django_version": "1.10.5",
+    "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_') }}",
+    "author_name": "Justin Noor",
+    "email": "you@example.com",
+    "description": "A short description of the project.",
+    "domain_name": "example.com",
+    "version": "0.1.0",
+    "anaconda3_python_version": "4.3.0",
+    "aws_access_key_id": "your-access-key-id",
+    "aws_secret_access_key": "your-secret-access-key",
+    "aws_storage_bucket_name": "your-bucket-name",
+    "aws_custom_domain": "",
+    "conda_env_name": "{{ cookiecutter.project_slug.lower()|replace(' ', '_')|replace('-', '_') }}",
+    "postgis_version": "2.2",
+    "postgresql_version": "9.5",
+    "postgresql_username": "postgres",
+    "postgresql_database_name": "{{ cookiecutter.project_slug.lower()|replace(' ', '_')|replace('-', '_') }}",
+    "postgresql_database_password": "",
+    "postgresql_database_host": "localhost",
+    "postgresql_database_port": "",
+    "timezone": "UTC",
+    "open_source_license": ["MIT", "BSD", "GPLv3", "Apache Software License 2.0", "Not open source"]
+}
+

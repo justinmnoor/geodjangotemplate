@@ -1,0 +1,14 @@
+{% raw %}{% extends 'base.html' %}{% endraw %}
+
+{% raw %}{% block content %}
+
+<div class="jumbotron">
+  <h1>About Your Site</h1>
+  <p class="lead">Tell the world about your site here. You can edit this page, or throw it away and replace it with something you like better. To edit this page, open your '{% endraw %}{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}{% raw %}/templates/about.html' file and make the desired changes. If you want to throw it away, visit https://v4-alpha.getbootstrap.com/components/alerts, and replace the jumbotron with other Bootstrap4 options.</p>
+  <p class="lead">Enhance this page with your own styling in the '{% endraw %}{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}{% raw %}/static/css/project.css' file.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+  </p>
+</div>
+
+{% endblock content %}{% endraw %}

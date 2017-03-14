@@ -1,0 +1,13 @@
+{
+	
+	"default": {
+
+	    "ENGINE": "django.contrib.gis.db.backends.postgis",
+	    "NAME": "{{cookiecutter.postgresql_database_name}}",
+	    "USER": "{{cookiecutter.postgresql_username}}",
+	    "PASSWORD": "{{cookiecutter.postgresql_database_password}}",
+	    "HOST": "{{cookiecutter.postgresql_database_host}}",
+	    "PORT": "{{cookiecutter.postgresql_database_port}}"
+	}
+
+}

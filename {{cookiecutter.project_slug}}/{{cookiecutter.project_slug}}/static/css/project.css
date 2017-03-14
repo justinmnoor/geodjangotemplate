@@ -1,0 +1,41 @@
+body {
+	background-color: #292b2c;
+}
+
+.jumbotron {
+	background-color: #FFF;
+	border-radius: 0px;
+}
+
+.jumbotron h1 {
+	color: #292b2c;
+    font-family: 'Open Sans', sans-serif;
+	font-size: 45px;
+	text-align: center;
+}
+
+.jumbotron h2 {
+	color: #292b2c;
+    font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.jumbotron p {
+	color: #292b2c;
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+}
+
+.nav-item{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.smallmap {
+	border-radius: 10px;
+}
+
+.bg-faded {
+	background-color: #FFF;
+	height: 100px;
+}
