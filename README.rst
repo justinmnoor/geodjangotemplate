@@ -129,7 +129,7 @@ Regarding step 3, the requirements are installed this way because I haven't figu
 
 Yaml is used for 'base.yml' because the project dependencies are a mixture of conda-forge and pip packages. The conda-forge Django package greatly simplies the installation of the geospatial libraries. A BIG HUGE thank you goes out to the conda-forge community for building this package. If you are installing the geospatial libraries on Windows, may God be with you.
 
-Json files are used for storing secret keys and secret stuff because they are lightweight and work amazingly well with Python. See the 'base.py' settings file at the 'ENVIRONMENT CONFIGURATION' section. These config files allow the user to keep passwords, keys, etc., out of version control by adding them to .gitignore. That said, add them to '.gitignore' ASAP.
+Json files are used for storing secret keys and secret stuff because they are lightweight and work amazingly well with Python. See the 'base.py' settings file at the 'ENVIRONMENT CONFIGURATION' section. These config files allow the user to keep passwords, keys, etc., out of version control by adding them to .gitignore. That said, add them to '.gitignore' now! I am currently exploring methods that utilize systemd or bash scripting for importing environment variables and will implement them ASAP. 
 
 
 Notes on AWS Configuration
