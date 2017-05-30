@@ -1,4 +1,6 @@
-*** THIS PROJECT IS UNDERGOING A MAJOR FACE-LIFT. IT IS BEING RETOOLED FOR CONTAINERS. PLEASE STAY TUNED. ***
+*** THIS PROJECT IS UNDERGOING A MAJOR FACE-LIFT. IT IS BEING RETOOLED FOR CONTAINERS, AND GETTING A NEW FRONT-END. ***
+*** PLEASE STAY TUNED. ***
+=================================================================================================================================
 
 A SIMPLE GEODJANGO TEMPLATE
 ============================
