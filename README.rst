@@ -1,4 +1,4 @@
-THIS PROJECT IS BEING RE-EXAMINED, AND MAY BE DISCONTINUED AS I AM UNSURE IF DJANGO CONTINUES TO MEETS MY NEEDS. I AM WORKING WITH JAVASCRIPT MORE AND MORE THESE DAYS, AND HAVE DEVELOPED A KEEN INTEREST IN CONTAINER TECHNOLOGIES. PLEASE STAY TUNED.
+* This project is being re-examined, and may be discontinued as I am unsure if Django continues to meet my needs. I am working with Javascript more and more these days, and have developed a keen interest in container technologies. *
 =================================================================================================================================
 
 
