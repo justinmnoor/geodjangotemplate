@@ -1,4 +1,4 @@
-*** THIS PROJECT IS UNDERGOING A MAJOR FACE-LIFT. IT IS BEING RETOOLED FOR CONTAINERS, AND GETTING A NEW FRONT-END. ***
+*** THIS PROJECT IS BEING RE-EXAMINED AND RE-TOOLED FOR DEPLOYMENTS WITH CONTAINERS ***
 *** PLEASE STAY TUNED. ***
 =================================================================================================================================
 
@@ -12,14 +12,6 @@ Project Background
 ===================
 
 This is a simple GeoDjango template that provides just enough configuration to get you going. It includes a landing page that displays a basic slippy map, a blank 'about' page, and some general configuration for conducting geospatial analyses with Django.
-
-With your new project you can start serving and analyzing geospatial data. My 'geodjangoapps' template might help you.
-
-See: 
-
-    https://github.com/justinmnoor/geodjangoapps
-
-Be sure to take my tutorials on GeoDjango as well (coming soon).
 
 This template was generated with audreyr's Cookie-Cutter templating utility. To see how it was made, take the Cookie-Cutter tutorials at:
 
