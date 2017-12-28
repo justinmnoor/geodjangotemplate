@@ -1,4 +1,4 @@
-* This project is being re-examined, and may be discontinued as I am unsure if Django continues to meet my needs. I am working with Javascript and Go these days, and have developed a keen interest in container technologies.
+* This project is no longer maintained. I've moved on from Python. Goodbye Python my love, when it was good it was great.
 =================================================================================================================================
 
 
