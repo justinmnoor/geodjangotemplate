@@ -1,5 +1,5 @@
-* This project is no longer maintained. I've moved on from Python. Goodbye Python my love, when it was good it was great.
-=================================================================================================================================
+* This project is no longer maintained. I've moved on from Python. Goodbye Python, my love. When it was good it was great, but you're slower than shit, convoluted, and difficult to scale. For these reasons, I'm leaving you.
+===============================================================================================================================
 
 
 A SIMPLE GEODJANGO TEMPLATE
