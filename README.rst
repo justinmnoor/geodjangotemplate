@@ -1,5 +1,5 @@
-* THIS PROJECT IS NO LONGER MAINTAINED
-===============================================================================================================================
+THIS PROJECT IS NO LONGER MAINTAINED
+====================================
 
 
 A SIMPLE GEODJANGO TEMPLATE
