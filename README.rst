@@ -5,9 +5,6 @@
 A SIMPLE GEODJANGO TEMPLATE
 ============================
 
-Ready to add some geo to your Django? GeoDjango is an amazing GIS framework for web applications. This template will help get you started.
-
-
 Project Background
 ===================
 
